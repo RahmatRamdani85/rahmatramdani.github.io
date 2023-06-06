@@ -1,0 +1,23 @@
+
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+  text-align: center;
+}
+.lead {
+  font-weight: 500;
+}
+
+#contact {
+  margin-top: -70px;
+}
+
+#projects {
+  background-color: #e2edff;
+  text-align: center;
+}
+
+section{
+    padding-top: 5rem;
+}
